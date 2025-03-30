@@ -6,7 +6,7 @@ Open **Window > Package Manager** in your editor.
 
 Click the **+** in the top left and select **Add package from git URL...**
 
-Paste *https://github.com/ThisIsNoZaku/unity-sprite-slicer.git?path=Assets* and click **Add**.
+Paste *https://github.com/Unity-Tools-and-Libraries/unity-sprite-slicer.git?path=Assets* and click **Add**.
 
 ## Usage
 This app assumes that sprites are layed out with each row as group of related sprites.
